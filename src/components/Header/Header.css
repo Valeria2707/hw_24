@@ -1,0 +1,10 @@
+.header{
+    grid-area: h;
+    background-color: rgb(174, 169, 169);
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 26px;
+    font-style: italic;
+    font-weight: bold;
+}

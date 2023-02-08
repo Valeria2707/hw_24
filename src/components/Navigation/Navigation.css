@@ -1,0 +1,8 @@
+.navigation{
+    grid-area: n;
+    background-color: pink;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding: 15px;
+}

@@ -1,0 +1,13 @@
+.content{
+    grid-area: c;
+    background-color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.countText{
+    font-size: 26px;
+    font-weight: bold;
+}
